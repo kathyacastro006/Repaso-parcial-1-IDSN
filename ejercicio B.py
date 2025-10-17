@@ -1,1 +1,2 @@
-cadena = str(input())
+cadena = input()
+print(cadena.count("z"))
