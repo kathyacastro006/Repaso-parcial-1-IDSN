@@ -1,0 +1,1 @@
+cadena = str(input())
