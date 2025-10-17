@@ -1,0 +1,12 @@
+numero1 = int(input())
+numero2 = int(input())
+numero3 = int(input())
+numero4 = int(input())
+numero5 = int(input())
+numero6 = float(input())
+numero7 = float(input())
+numero8 = float(input())
+numero9 = float(input())
+numero10 = float(input())
+
+print(int(numero1*numero6+numero2*numero7+numero3*numero8+numero4*numero9+numero5*numero10))
